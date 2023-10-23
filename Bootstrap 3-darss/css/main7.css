@@ -1,0 +1,64 @@
+.t1{
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}
+.t2{
+    font-weight: 500;
+}
+.t3{
+    font-weight: 500;
+}
+.t4{
+    font-weight: 500;
+}
+.t5{
+    font-weight: 500;
+}
+.t6{
+    font-weight: 500;
+}
+.t7{
+    font-weight: 500;
+}
+.t8{
+    font-weight: 500;
+}
+.t9{
+    font-weight: 500;
+}
+.t10{
+    font-weight: 500;
+}
+.t11{
+    font-weight: 500;
+}
+.boldi{
+    width: 100%;
+    float: left;
+}
+.b1{
+    margin-left: 10px;
+}
+.b2{
+    margin-left: 120px;
+}
+.b3{
+    margin-left: 150px;
+}
+.b4{
+    margin-left: 25px;
+}
+.b5{
+    margin-left: 90px;
+}
+.b6{
+    margin-left: 30px;
+}
+.b7{
+    margin-left: 60px;
+}
+.from2{
+    position: relative;
+    bottom: 35px;
+    left: 860px;
+}
